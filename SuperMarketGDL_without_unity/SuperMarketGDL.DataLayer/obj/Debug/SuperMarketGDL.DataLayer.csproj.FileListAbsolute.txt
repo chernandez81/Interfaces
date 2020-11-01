@@ -1,0 +1,5 @@
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.DataLayer.dll
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.DataLayer.pdb
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataLayer.dll
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataLayer.pdb

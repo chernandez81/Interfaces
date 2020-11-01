@@ -1,0 +1,2 @@
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\obj\Release\SuperMarketGDL.Presentation.csprojAssemblyReference.cache
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\obj\Release\SuperMarketGDL.Presentation.csproj.CoreCompileInputs.cache

@@ -1,0 +1,61 @@
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.DataLayer.dll
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.DataLayer.pdb
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.dll
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\Unity.Abstractions.dll
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.pdb
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.dll.config
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\Unity.Abstractions.pdb
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csprojAssemblyReference.cache
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csproj.CopyComplete
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataLayer.dll
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataLayer.pdb
+s Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csprojAssemblyReference.cache
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csproj.CoreCompileInputs.cache
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\Unity.Abstractions.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.dll.config
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\Unity.Abstractions.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csproj.CopyComplete
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\Unity.Abstractions.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.dll.config
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\Unity.Abstractions.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csprojAssemblyReference.cache
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csproj.CoreCompileInputs.cache
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csproj.CopyComplete
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\Unity.Abstractions.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.dll.config
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Debug\Unity.Abstractions.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csprojAssemblyReference.cache
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csproj.CoreCompileInputs.cache
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csproj.CopyComplete
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.DataLayer\bin\Debug\Unity.Abstractions.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.DataLayer\bin\Debug\SuperMarketGDL.Libraries.dll.config
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.DataLayer\bin\Debug\Unity.Abstractions.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csprojAssemblyReference.cache
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csproj.CoreCompileInputs.cache
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataAccess.csproj.CopyComplete
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.DataLayer\obj\Debug\SuperMarketGDL.DataLayer.pdb

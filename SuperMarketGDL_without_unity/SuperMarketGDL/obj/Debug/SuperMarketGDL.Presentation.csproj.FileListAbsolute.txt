@@ -1,0 +1,117 @@
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.exe.config
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.exe
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.pdb
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.dll
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Abstractions.dll
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Container.dll
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.pdb
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.dll.config
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Abstractions.pdb
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Container.pdb
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csprojAssemblyReference.cache
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csproj.CopyComplete
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.exe
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.pdb
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.LogicLayer.dll
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.LogicLayer.pdb
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.DataLayer.dll
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.DataLayer.pdb
+master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.exe.config
+in\Debug\SuperMarketGDL.exe.config
+dll
+terfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.exe
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.exe.config
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.exe
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.LogicLayer.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Abstractions.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Container.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.ServiceConnection.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\netstandard.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.dll.config
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.LogicLayer.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Abstractions.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Container.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.ServiceConnection.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csprojAssemblyReference.cache
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csproj.CoreCompileInputs.cache
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csproj.CopyComplete
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.exe
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.exe.config
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.exe
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.LogicLayer.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Abstractions.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Container.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.ServiceConnection.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\netstandard.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.dll.config
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.LogicLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Abstractions.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Container.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.ServiceConnection.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csprojAssemblyReference.cache
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csproj.CoreCompileInputs.cache
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csproj.CopyComplete
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.exe
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.exe.config
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.exe
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.LogicLayer.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Abstractions.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Container.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.ServiceConnection.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\netstandard.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.dll.config
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.LogicLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Abstractions.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\Unity.Container.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.ServiceConnection.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\bin\Debug\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csprojAssemblyReference.cache
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csproj.CoreCompileInputs.cache
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csproj.CopyComplete
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.exe
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL\obj\Debug\SuperMarketGDL.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\SuperMarketGDL.exe.config
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\SuperMarketGDL.exe
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\SuperMarketGDL.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\SuperMarketGDL.LogicLayer.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\Unity.Abstractions.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\SuperMarketGDL.ServiceConnection.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\netstandard.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\SuperMarketGDL.Libraries.dll.config
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\SuperMarketGDL.LogicLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\Unity.Abstractions.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\SuperMarketGDL.ServiceConnection.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\bin\Debug\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csprojAssemblyReference.cache
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csproj.CoreCompileInputs.cache
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\obj\Debug\SuperMarketGDL.Presentation.csproj.CopyComplete
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\obj\Debug\SuperMarketGDL.exe
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL\obj\Debug\SuperMarketGDL.pdb

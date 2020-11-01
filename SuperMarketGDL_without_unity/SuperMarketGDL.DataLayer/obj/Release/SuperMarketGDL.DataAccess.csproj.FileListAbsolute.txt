@@ -1,0 +1,17 @@
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Release\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Release\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Release\SuperMarketGDL.Libraries.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Release\Unity.Abstractions.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Release\netstandard.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Release\SuperMarketGDL.Libraries.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Release\SuperMarketGDL.Libraries.dll.config
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Release\Unity.Abstractions.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Release\SuperMarketGDL.DataAccess.csprojAssemblyReference.cache
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Release\SuperMarketGDL.DataAccess.csproj.CoreCompileInputs.cache
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Release\SuperMarketGDL.DataAccess.csproj.CopyComplete
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Release\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.DataLayer\obj\Release\SuperMarketGDL.DataLayer.pdb
