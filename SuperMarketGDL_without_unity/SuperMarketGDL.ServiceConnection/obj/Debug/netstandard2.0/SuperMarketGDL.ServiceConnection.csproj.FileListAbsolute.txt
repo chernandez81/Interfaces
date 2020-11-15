@@ -1,0 +1,69 @@
+rketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.csproj.CoreCompileInputs.cache
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.AssemblyInfoInputs.cache
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.AssemblyInfo.cs
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.deps.json
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.Libraries.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\Unity.Abstractions.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.Libraries.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.Libraries.dll.config
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\Unity.Abstractions.pdb
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.csprojAssemblyReference.cache
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.csproj.CopyComplete
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.dll
+D:\Interfaces Course\supermarketgdl-master\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.deps.json
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.Libraries.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\Unity.Abstractions.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.Libraries.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.Libraries.dll.config
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\Unity.Abstractions.pdb
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.csprojAssemblyReference.cache
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.csproj.CoreCompileInputs.cache
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.AssemblyInfoInputs.cache
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.AssemblyInfo.cs
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.csproj.CopyComplete
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.dll
+D:\Interfaces Course\02 Interfaces code project\supermarketgdl-master\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.deps.json
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.Libraries.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\Unity.Abstractions.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.Libraries.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.Libraries.dll.config
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\Unity.Abstractions.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.csprojAssemblyReference.cache
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.csproj.CoreCompileInputs.cache
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.AssemblyInfoInputs.cache
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.AssemblyInfo.cs
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.csproj.CopyComplete
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.deps.json
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.DataLayer.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.Libraries.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\Unity.Abstractions.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.DataLayer.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.Libraries.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\SuperMarketGDL.Libraries.dll.config
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\bin\Debug\netstandard2.0\Unity.Abstractions.pdb
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.csprojAssemblyReference.cache
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.csproj.CoreCompileInputs.cache
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.AssemblyInfoInputs.cache
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.AssemblyInfo.cs
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.csproj.CopyComplete
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.dll
+D:\Interfaces Course\02 Interfaces code project\SuperMarketGDL_without_unity\SuperMarketGDL.ServiceConnection\obj\Debug\netstandard2.0\SuperMarketGDL.ServiceConnection.pdb

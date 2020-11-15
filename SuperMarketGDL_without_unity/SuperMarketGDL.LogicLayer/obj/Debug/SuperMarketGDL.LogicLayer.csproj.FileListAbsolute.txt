@@ -1,0 +1,6 @@
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.LogicLayer\bin\Debug\SuperMarketGDL.LogicLayer.dll
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.LogicLayer\bin\Debug\SuperMarketGDL.LogicLayer.pdb
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.LogicLayer\obj\Debug\SuperMarketGDL.LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.LogicLayer\obj\Debug\SuperMarketGDL.LogicLayer.dll
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.LogicLayer\obj\Debug\SuperMarketGDL.LogicLayer.pdb
+C:\Users\victomor\OneDrive - AMDOCS\VUBIQUITY\Source Code\SuperMarketGDL\SuperMarketGDL\SuperMarketGDL.LogicLayer\obj\Debug\SuperMarketGDL.LogicLayer.csprojAssemblyReference.cache
